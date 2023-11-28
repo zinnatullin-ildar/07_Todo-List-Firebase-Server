@@ -1,0 +1,16 @@
+{
+    "todos": {
+        "1": {
+            "title": "Закончить модуль по Frontend-разработке",
+            "completed": true
+        },
+        "2": {
+            "title": "Закончить модуль по Backend-разработке",
+            "completed": false
+        },
+        "3": {
+            "title": "Закончить обучение на специальность Frontend-разработчик",
+            "completed": false
+        }
+    }
+}
